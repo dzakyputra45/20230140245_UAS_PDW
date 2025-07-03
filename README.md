@@ -6,6 +6,8 @@ STUDYKU adalah aplikasi web berbasis PHP Native untuk mengelola praktikum, modul
 
 ### Fitur Umum
 - ✅ Autentikasi (Login, Register, Logout)
+- ![Screenshot 2025-07-02 092939](https://github.com/user-attachments/assets/098cbac2-702e-463a-b58e-53bfb7219e62)
+
 - ✅ Katalog Praktikum (Publik)
 - ✅ Dashboard untuk Mahasiswa dan Asisten
 
